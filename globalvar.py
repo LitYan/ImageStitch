@@ -12,4 +12,3 @@ def get_value(name):
             if _global_dict[i]:
                 return _global_dict[i]
     return _global_dict['programData']
-
